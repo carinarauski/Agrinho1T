@@ -1,6 +1,6 @@
 body{
     background-color: aqua;
-    color: aliceblue;
+    color: rgb(40, 41, 41);
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center;
